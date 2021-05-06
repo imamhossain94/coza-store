@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeIntro" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#FFFFFF</item>
+        <item name="colorAccent">@color/colorPrimary2</item>
+        <item name="android:navigationBarColor">#F2F2F2</item>
+    </style>
+
+    <style name="Spinner"
+        parent="Widget.AppCompat.Light.DropDownItem.Spinner" />
+
+    <style name="button"
+        parent="Theme.AppCompat.DayNight.NoActionBar">
+
+        <item name="background">@drawable/background_round_gray</item>
+
+    </style>
+
+</resources>

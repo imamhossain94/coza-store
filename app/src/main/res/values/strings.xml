@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coza Store</string>
+
+    //base activity
+    <string name="home">Home</string>
+    <string name="wish_list">Wish list</string>
+    <string name="my_bag">My Bag</string>
+    <string name="account">Account</string>
+
+    <string-array name="country_code">
+        <item>+88</item>
+    </string-array>
+
+
+</resources>
